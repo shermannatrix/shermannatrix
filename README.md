@@ -1,0 +1,46 @@
+## 👋 Hi, I’m @shermannatrix
+
+So, this isn't my first time on Github FYI. I've been using and supporting GitHub for many years. But in the last few years, out of curiousity, 
+I wanted to try out GitLab. I suppose I'm just curious as to the difference between the two (if any), and also, if the experience in generally 
+the same, then why the heck do we have two options when only one would do. 
+
+I do have an old account on GitHub, but it has since been abandoned and discontinued. So, I think it's important to be aware of that. I was making 
+an effort to clear out my old repos, but it got a little tedious, so instead, I've decided to just created a new account. It's probably easier that way.
+
+A clean slate.
+
+## 👀 Areas of Passion
+- Product Design
+- UX Design
+- Front-end Dev (includes Telerik products)
+
+## 🌱 What I'm Currently Learning
+
+I am currently doing a deep-dive into React 17. I have been learning/using React since 2018. So far, my working experiences range from working 
+on a single component to multiple components. I've also worked on a single page (which usually involves multiple components working together). The thing is, 
+when I'm working on a project, there isn't a lot of time to do a deep-dive or self-learning. I just go with what I already know, and what already works. 
+Most of the time, the work involves a lot of copying and pasting. Followed by customization work. So, there really isn't a lot of learning involved. 
+Not really.
+
+### Progress Champions (Telerik)
+
+With my recent return as a Telerik products expert, I'm already thinking about a few personal project ideas. But speaking from my own experience, I can do 
+only so much thinking. Until I actually get down to work, those ideas shall forever remain...ideas. So I've chosen to use this opportunity to start with 
+something that I am already familiar with, KendoReact.
+
+For those that have been following my journey for many years would know that I am pretty experienced with all of the products. The only difference between 
+then and now, is that I've been away for a few years. So I might need a little bit of time to get back up to speed.
+
+## 💞️ I’m currently open to both
+1. Full-time work
+2. Freelancing gigs.
+
+## 📫 Ways to Reach Me
+- Email: shermannatrix@gmail.com
+- LinkedIn (usually active here): https://www.linkedin.com/in/sherman-chen-weizhi/
+
+## 💬 Topics I Like to Discuss
+- Mental Health
+- Climate Change
+- Personal Development
+- PC Gaming
