@@ -22,6 +22,8 @@ when I'm working on a project, there isn't a lot of time to do a deep-dive or se
 Most of the time, the work involves a lot of copying and pasting. Followed by customization work. So, there really isn't a lot of learning involved. 
 Not really.
 
+Currently, I'm on the topic of React Routers. More specifically, I've decided that my time and energy will be much better spent learning about v6 of the React Router library. The online tutorial is one of the most well-written online tutorials I have ever come across. Certainly the gold standard from where I stand.
+
 ### Progress Champions (Telerik)
 
 With my recent return as a Telerik products expert, I'm already thinking about a few personal project ideas. But speaking from my own experience, I can do 
