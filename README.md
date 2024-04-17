@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m @shermannatrix
 
 So, this isn't my first time on Github FYI. I've been using and supporting GitHub for many years. But in the last few years, out of curiousity, 
-I wanted to try out GitLab. I suppose I'm just curious as to the difference between the two (if any), and also, if the experience in generally 
-the same, then why the heck do we have two options when only one would do. 
+I wanted to try out GitLab (https://gitlab.com/shermannatrix). I suppose I'm just curious as to the difference between the two (if any), and also, if the experience in generally the same, then why the heck do we have two options when only one would do. 
 
 I do have an old account on GitHub, but it has since been abandoned and discontinued. So, I think it's important to be aware of that. I was making 
 an effort to clear out my old repos, but it got a little tedious, so instead, I've decided to just created a new account. It's probably easier that way.
