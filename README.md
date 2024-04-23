@@ -20,6 +20,18 @@ A clean slate.
 
 ## 🌱 What I'm Currently Learning
 
+### Telerik KendoReact (Kendo UI)
+
+My deep-dive into React 17/18 is on a temporary break. I'm currently in-the-zone when it comes to doing a deep-dive into KendoReact by Telerik. The goal is that since I've already acquired the most essential knowledge and skills surrounding React development, I want to convert that into something practical. And nothing is more hands-on than doing a deep-dive into the KendoReact components library. I suspect that there might be some more advanced-level topics that I can do further research into later, so chances are, I might switch between the two topics from time-to-time.
+
+Even though my project showcase idea is not an actual real-world project, it will provide a very close simulation to one. So, my deep-dive into both topics listed here will serve to help me complete the project showcase.
+
+Currently, with regards to KendoReact, I'm working through two of the major product features:
+1. Kendo Data Grid (via my weekly live streams)
+2. Kendo Form (via my own deep-dive and article series)
+
+### React 17/18 Deep-dive
+
 I am currently doing a deep-dive into React 17. I have been learning/using React since 2018. So far, my working experiences range from working 
 on a single component to multiple components. I've also worked on a single page (which usually involves multiple components working together). The thing is, 
 when I'm working on a project, there isn't a lot of time to do a deep-dive or self-learning. I just go with what I already know, and what already works. 
