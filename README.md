@@ -38,16 +38,7 @@ when I'm working on a project, there isn't a lot of time to do a deep-dive or se
 Most of the time, the work involves a lot of copying and pasting. Followed by customization work. So, there really isn't a lot of learning involved. 
 Not really.
 
-Currently, I'm on the topic of consuming Web APIs. Which is nice because it also allows me to start applying it to my own project showcase idea. Which is also currently a work-in-progress. 
-
-### Progress Champions (Telerik)
-
-With my recent return as a Telerik products expert, I'm already thinking about a few personal project ideas. But speaking from my own experience, I can do 
-only so much thinking. Until I actually get down to work, those ideas shall forever remain...ideas. So I've chosen to use this opportunity to start with 
-something that I am already familiar with, KendoReact.
-
-For those that have been following my journey for many years would know that I am pretty experienced with all of the products. The only difference between 
-then and now, is that I've been away for a few years. So I might need a little bit of time to get back up to speed.
+Currently, I'm on the topic of consuming Web APIs. Which is nice because it also allows me to start applying it to my own project showcase idea. Which is also currently a work-in-progress.
 
 ## 💞️ I’m currently open to both
 1. Full-time work
