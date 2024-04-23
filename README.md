@@ -22,13 +22,15 @@ A clean slate.
 
 ### Telerik KendoReact (Kendo UI)
 
-My deep-dive into React 17/18 is on a temporary break. I'm currently in-the-zone when it comes to doing a deep-dive into KendoReact by Telerik. The goal is that since I've already acquired the most essential knowledge and skills surrounding React development, I want to convert that into something practical. And nothing is more hands-on than doing a deep-dive into the KendoReact components library. I suspect that there might be some more advanced-level topics that I can do further research into later, so chances are, I might switch between the two topics from time-to-time.
+My deep-dive into React 17/18 is on a temporary break. I'm currently in-the-zone when it comes to doing a deep-dive into KendoReact (https://www.telerik.com/kendo-react-ui/) by Telerik. The goal is that since I've already acquired the most essential knowledge and skills surrounding React development, I want to convert that into something practical. And nothing is more hands-on than doing a deep-dive into the KendoReact components library. I suspect that there might be some more advanced-level topics that I can do further research into later, so chances are, I might switch between the two topics from time-to-time.
 
 Even though my project showcase idea is not an actual real-world project, it will provide a very close simulation to one. So, my deep-dive into both topics listed here will serve to help me complete the project showcase.
 
 Currently, with regards to KendoReact, I'm working through two of the major product features:
-1. Kendo Data Grid (via my weekly live streams)
-2. Kendo Form (via my own deep-dive and article series)
+1. Kendo Data Grid (via my weekly live streams - https://www.youtube.com/watch?v=wyhEq7QauJA&list=PLwpxJN0dDkgib8w9vMq_-WZSFf7QB2zNd)
+2. Kendo Form (via my own deep-dive and article series - https://www.linkedin.com/in/sherman-chen-weizhi/recent-activity/articles/)
+
+As of this afternoon (23 April 2024), I have already made a decision to move all future articles in the series to my personal website. It isn't the most ideal, but it has certain advantages over using LinkedIn's articles. So I'll figure out a way to make the most of what I have right now.
 
 ### React 17/18 Deep-dive
 
