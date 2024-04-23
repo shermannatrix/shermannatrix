@@ -8,6 +8,11 @@ an effort to clear out my old repos, but it got a little tedious, so instead, I'
 
 A clean slate.
 
+## 🏅 Current Recognitions
+- Progress Champion (Telerik)
+- GitKraken Ambassador
+- UXPin Ambassador
+
 ## 👀 Areas of Passion
 - Product Design
 - UX Design
@@ -21,7 +26,7 @@ when I'm working on a project, there isn't a lot of time to do a deep-dive or se
 Most of the time, the work involves a lot of copying and pasting. Followed by customization work. So, there really isn't a lot of learning involved. 
 Not really.
 
-Currently, I'm on the topic of React Routers. More specifically, I've decided that my time and energy will be much better spent learning about v6 of the React Router library. The online tutorial is one of the most well-written online tutorials I have ever come across. Certainly the gold standard from where I stand.
+Currently, I'm on the topic of consuming Web APIs. Which is nice because it also allows me to start applying it to my own project showcase idea. Which is also currently a work-in-progress. 
 
 ### Progress Champions (Telerik)
 
